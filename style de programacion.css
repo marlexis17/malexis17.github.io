@@ -1,0 +1,16 @@
+body {
+    background-color: #4a00b250;
+
+
+}
+
+body {
+    margin: 0;
+    padding: 0%;
+    background: url(imgportada.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+
+
+}
