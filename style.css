@@ -1,0 +1,56 @@
+body {
+    background-color: #e3c1a2;
+   mask-type: luminance;
+
+
+}
+
+.btn1 {
+   
+   background-color: rgb(174, 233, 233);
+   padding: 1% 1% ;
+   color: black;
+   text-decoration: none;
+}
+
+.btn2 {
+   
+    background-color: rgb(174, 233, 233);
+    padding: 1% 10px ;
+    color: black;
+    text-decoration: none;
+}
+
+.btn3 {
+   
+    background-color: rgb(174, 233, 233);
+    padding: 1% 5px ;
+    color: black;
+    text-decoration: none;
+}
+
+.btn4 {
+   
+    background-color: rgb(174, 233, 233);
+    padding: 1% 2% ;
+    color: black;
+    text-decoration: none;
+}
+
+.btn5 {
+   
+    background-color: rgb(174, 233, 233);
+    padding: 1% 2% ;
+    color: black;
+    text-decoration: none;
+}
+body {
+    margin: 0;
+    padding: 0%;
+    background: url(imgportada.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+
+
+}
